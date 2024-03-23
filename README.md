@@ -10,7 +10,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/2347082604774?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Mcross-Md+Repo" target="_blank">
+  <a href="https://wa.me/2347082604774?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Godbless-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Godbless_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
@@ -96,11 +96,11 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349042566473`](https://wa.me/2349042566473)
+- If any problem, then [`+2347082604774`](https://wa.me/2347082604774)
 
 
 ### Thanks To
-- [KÎÑG M-ÇRØSS](https://github.com/M-cross1) 
+- [Godbless-Md](https://github.com/M-cross1) 
 
 
 The Godbless-Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
