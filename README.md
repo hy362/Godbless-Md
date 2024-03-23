@@ -1,5 +1,5 @@
  <h1 align="center"> Godbless Md </h1> 
-<p align="center"> Introducing Mcross_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing Godbless_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://wa.me/2347082604774">
