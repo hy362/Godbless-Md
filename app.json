@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "*It's* 𝙂𝙊𝘿𝘽𝙇𝙀𝙎𝙎",
+      "value": "*_KING_* 𝙂𝙊𝘿𝘽𝙇𝙀𝙎𝙎",
       "required" :true
     },   
      
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "cc31313e-84e5-476f-ab0c-6c5f3f582df2",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
